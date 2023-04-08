@@ -1,0 +1,9 @@
+{
+  "label": "Creat forum",
+  "position": 2,
+  "link": {
+    "slug": "create-forum",
+    "type": "generated-index",
+    "description": "Creat"
+  }
+}

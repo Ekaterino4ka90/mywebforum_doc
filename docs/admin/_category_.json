@@ -1,0 +1,9 @@
+{
+  "label": "Admin dashboard",
+  "position": 3,
+  "link": {
+    "slug": "/admin",
+    "type": "generated-index",
+    "description": "Admin"
+  }
+}
