@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug: "/create_forum/domain"
+slug: "/create-forum/domain"
 ---
 
 # Create on your domain
@@ -9,7 +9,7 @@ slug: "/create_forum/domain"
 
 Consider following step by step, how to create a forum on a domain:
 
-First of all, check if the forum is available. To do this, enter the address in the appropriate window and click on the "Check" button. If the selected address is available, the system will notify you with the following message:
+First of all, check if the forum is available. To do this, enter the address in the appropriate window and click on the «Check» button. If the selected address is available, the system will notify you with the following message:
 
 ![subdomain5](/img/subdomain5.png)
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: "/create_forum/sub_domain"
+slug: "/create-forum/subdomain"
 ---
 
 # Create on our subdomain

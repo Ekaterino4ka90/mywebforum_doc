@@ -5,7 +5,7 @@ slug: "/"
 
 # Mywebforum
 
-Mywebforum's platform is for those who want to create their own online community but don't have web development skills.
+Mywebforum's platform is for those who want to create their own online community, but don't have web development skills.
 The help guide will allow you to quickly set up a forum and understand the characteristics and functionality of the platform.
 
 ## Why Mywebforum?
@@ -21,5 +21,5 @@ The help guide will allow you to quickly set up a forum and understand the chara
 
 So, let's look at how you can create an online community:
 
-- Domain
-- Sub Domain
+- [Domain](https://docs.mywebforum.com/create-forum/domain)
+- [SubDomain](https://docs.mywebforum.com/create-forum/subdomain)
