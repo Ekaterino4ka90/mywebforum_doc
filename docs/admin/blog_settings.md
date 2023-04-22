@@ -1,6 +1,6 @@
 ---
 sidebar_position: 13
-slug: "/admin/blog_settings"
+slug: "/admin/blog-settings"
 ---
 
 # Blog settings

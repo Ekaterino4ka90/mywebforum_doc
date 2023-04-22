@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug: "/admin/mail_settings"
+slug: "/admin/mail-settings"
 ---
 
 # Mail settings
