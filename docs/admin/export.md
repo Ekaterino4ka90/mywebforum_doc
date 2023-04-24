@@ -14,7 +14,7 @@ To export data, you need to click on the button:
 
 ![export](/img/export.png)
 
-Choose what we want to export:
+Choose what you want to export:
 
 ![export2](/img/export2.png)
 

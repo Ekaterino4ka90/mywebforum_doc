@@ -5,7 +5,7 @@ slug: "/admin/social-logins"
 
 # Social logins
 
-Social logins refer toallows users to log into websites or applications using their social media account credentials instead of creating a new account or providing their email address and password.
+Social logins allows users to log into websites or applications using their social media account credentials instead of creating a new account or providing their email address and password.
 
 This eliminates the need for users to remember multiple usernames and passwords and provides a more seamless and convenient user experience.
 

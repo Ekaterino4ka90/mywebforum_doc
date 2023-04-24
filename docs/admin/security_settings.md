@@ -7,7 +7,7 @@ slug: "/admin/security-settings"
 
 Security settings are necessary to protect site users and the site owner from various types of spam.
 
-You can set up security on the site as follows:
+You can set up security on any site as shown below:
 
 ![security](/img/security.png)
 
