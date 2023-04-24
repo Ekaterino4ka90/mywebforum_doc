@@ -7,8 +7,8 @@ slug: "/admin/export"
 
 There are several reasons why exporting data from a website may be necessary:
 
-- Data Backup: Exporting data from a website can serve as a backup measure to ensure that important information is preserved in case of data loss or website downtime. Having a copy of data in a different format or location can help safeguard against unexpected situations.
-- Data Migration: When transitioning to a new website or a content management system, exporting data from the existing site allows for smooth data migration. Data can be exported in a standardized format and then imported into the new system, preserving data integrity and minimizing data entry efforts.
+- **_Data Backup:_** Exporting data from a website can serve as a backup measure to ensure that important information is preserved in case of data loss or website downtime. Having a copy of data in a different format or location can help safeguard against unexpected situations.
+- **_Data Migration:_** When transitioning to a new website or a content management system, exporting data from the existing site allows for smooth data migration. Data can be exported in a standardized format and then imported into the new system, preserving data integrity and minimizing data entry efforts.
 
 To export data, you need to click on the button:
 
@@ -24,7 +24,7 @@ Wait until the data is ready to download.
 
 ![export3](/img/export3.png)
 
-:::danger
+:::info
 Data for export can be generated from 15 minutes or more.
 
 Format that will be available for download is CSV.
