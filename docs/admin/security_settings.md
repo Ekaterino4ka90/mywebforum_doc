@@ -13,9 +13,9 @@ You can set up security on the site as follows:
 
 Setting limits:
 
-- Limit of new topics: specify a number and this number will mean how many new topics can be created on one IP, but then you need to choose whether to create new topics per second, minute or hour.
-- Registration limit: specify a number and this number will mean how much you can register on one IP, but then you need to choose whether to register in a second, minute or hour.
-- Topic replies limit: specify a number and this number will mean how many you can reply to topics per IP, but then you need to choose whether to respond to new topics per second, minute or hour.
+- **_Limit of new topics:_** specify a number and this number will mean how many new topics can be created on one IP, but then you need to choose whether to create new topics per second, minute or hour.
+- **_Registration limit:_** specify a number and this number will mean how much you can register on one IP, but then you need to choose whether to register in a second, minute or hour.
+- **_Topic replies limit:_** specify a number and this number will mean how many you can reply to topics per IP, but then you need to choose whether to respond to new topics per second, minute or hour.
 
 :::tip
 Usually, many people use the following settings:
