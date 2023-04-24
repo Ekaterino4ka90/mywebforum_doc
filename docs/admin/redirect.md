@@ -23,10 +23,10 @@ Next, write down the "Old URL" and "New URL", and click "Save" in the right-hand
 
 ![redirect3](/img/redirect3.png)
 
-To edit redirect, click:
+To edit the redirect, click:
 
 ![edit](/img/edit.png)
 
-To delete redirect, click:
+To delete the redirect, click:
 
 ![delete](/img/delete.png)
