@@ -7,7 +7,7 @@ slug: "/admin/privacy-settings"
 
 Website privacy settings are essential to protect the privacy of website visitors and their personal data.
 
-"Privacy Policy" is a legal document that explains how a website collects, uses, and handles personal information from its users or customers. This includes details about the types of data collected, how it is stored, who has access to it, and how it is used.
+"Privacy Policy" is a legal document that explains how a website collects, uses, and handles personal information from its users or customers. This includes details about the types of data collected, how it is stored, who has access to it, and how it's used.
 
 ![privacy](/img/privacy.png)
 
