@@ -40,7 +40,7 @@ To default role for new users, click:
 
 ![default](/img/default.png)
 
-To delete role, click:
+To delete a role, click:
 
 ![delete](/img/delete.png)
 
