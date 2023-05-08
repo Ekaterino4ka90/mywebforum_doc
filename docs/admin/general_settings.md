@@ -7,7 +7,7 @@ slug: "/admin/general-settings"
 
 ## Logo
 
-The logo on a website is often the first thing that visitors see when they land on the site and can create a strong first impression. A well-designed logo can help establish site recognition and build trust with customers. Additionally, a logo can also convey important information.
+The logo on a website is often the first thing that visitors sees when they land on the site and can create a strong first impression. A well-designed logo can help establish site recognition and build trust with customers. Additionally, a logo can also convey important information.
 
 ![general](/img/general.png)
 
