@@ -5,7 +5,7 @@ slug: "/admin/roles"
 
 # Roles
 
-Roles on a forum are typically used to differentiate between users based on their level of access, permissions, and responsibilities. By assigning roles to users, forums can ensure that the community is managed effectively and that users are held accountable for their actions.
+Roles on a forum are typically used to divide between users based on their level of access, permissions, and responsibilities. By assigning roles to users, forums can ensure that the community is managed effectively and that users are held accountable for their actions.
 
 :::danger
 There are three default roles installed on the platform that cannot be edited.
@@ -17,7 +17,7 @@ To create a new role, click on the button "Add Role".
 
 ![roles2](/img/roles2.png)
 
-Need to fill out:
+You need to fill out:
 
 - Name for role
 - Select the permissions that will be available for this role.
