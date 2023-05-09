@@ -17,7 +17,7 @@ In short, customizing the appearance of a website is a crucial aspect of web des
 
 ### Template
 
-Can choose:
+You can choose:
 
 ![layout2](/img/layout2.png)
 
