@@ -32,7 +32,7 @@ Click on the button "Validate" and if you will see message:
 Next step, Click on the button "Update". E-mail settings are configured correctly.
 
 :::danger
-If you will see this message:
+If you see this message:
 
 ![mail3](/img/mail3.png)
 
@@ -62,13 +62,13 @@ Click on the button "Validate" and if you will see message:
 Next step, Click on the button "Update". E-mail settings are configured correctly.
 
 :::danger
-If you will see this message:
+If you see this message:
 
 ![mail3](/img/mail3.png)
 
 Please check your email, password, username.
 
-If you will see this message:
+If you see this message:
 
 ![mail5](/img/mail5.png)
 
