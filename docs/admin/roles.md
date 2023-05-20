@@ -21,6 +21,7 @@ You need to fill out:
 
 - Name for role
 - Select the permissions that will be available for this role.
+- Icon. Uploading an icon. Icon size should be 80px x 80px.
 
 Click "Save" in the upper right corner.
 

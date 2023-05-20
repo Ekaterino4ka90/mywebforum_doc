@@ -20,6 +20,7 @@ To create a category, click the "New Category" and fill out form:
 - Meta title. It appears in the browser's title bar and is also used by search engines as the title of a webpage's search result.
 - Meta description. It appears in the search engine results pages (SERPs) below the title tag and the URL of the page.The purpose of a meta description is to provide a concise and informative preview of what the user can expect to find on the page.
 - Parent category. We create the main category, which means we do not specify anything.
+- Icon. Uploading an icon for a category. Icon size should be 80px x 80px.
 
 We do not touch the "Access to everyone" checkbox if we want all users to see it.
 
@@ -36,6 +37,7 @@ To create a category, click the "New Category" and fill out form:
 - Meta title. It appears in the browser's title bar and is also used by search engines as the title of a webpage's search result.
 - Meta description. It appears in the search engine results pages (SERPs) below the title tag and the URL of the page.The purpose of a meta description is to provide a concise and informative preview of what the user can expect to find on the page.
 - Parent category. Choose parent category for subcategories.
+- Icon. Uploading an icon for a category. Icon size should be 80px x 80px.
 
 We do not touch the "Access to everyone" checkbox if we want all users to see it.
 
